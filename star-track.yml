@@ -1,8 +1,0 @@
-username: liuwei9
-scope: all
-
-organizations:
-  - "19801201"    # 注意加引号，纯数字不加引号会被当成数字
-
-featured:
-  - "19801201/SpinalHDL_CNN_Accelerator"    # 字符串格式：owner/repo
