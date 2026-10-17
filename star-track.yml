@@ -2,8 +2,7 @@ username: liuwei9
 scope: all
 
 organizations:
-  - 19801201          # 把组织 19801201 的全部公开仓库加入统计
+  - "19801201"    # 注意加引号，纯数字不加引号会被当成数字
 
 featured:
-  - owner: 19801201    # 可选：强制把该组织仓库放进精选卡片
-    name: SpinalHDL_CNN_Accelerator
+  - "19801201/SpinalHDL_CNN_Accelerator"    # 字符串格式：owner/repo
