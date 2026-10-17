@@ -19,4 +19,4 @@ I'm a hardware enthusiast focusing on **FPGA** and **Digital Design**.
 
 ## 📊 GitHub Stats
 
-![liuwei9's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuwei9&show_icons=true&theme=radical&include_all_commits=true&hide=contribs,prs)
+[![Total GitHub Stars](https://img.shields.io/github/stars/liuwei9?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&style=social)](https://github.com/liuwei9?tab=stars)
