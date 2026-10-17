@@ -20,3 +20,27 @@ I'm a hardware enthusiast focusing on **FPGA** and **Digital Design**.
 ## 📊 GitHub Stats
 
 [![Total GitHub Stars](https://img.shields.io/github/stars/liuwei9?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&style=social)](https://github.com/liuwei9?tab=stars)
+
+<!-- BEGIN_GITHUB_STATS -->
+
+<!-- prettier-ignore-start -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/star-track/profile-dark-compact.svg" />
+  <source media="(max-width: 640px)" srcset="assets/star-track/profile-light-compact.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/star-track/profile-dark.svg" />
+  <img src="assets/star-track/profile-light.svg" alt="Liu-Wei: 290 stars, 10 repositories, 139 contributions, A+ (312). Updated 2026-10-17 UTC." width="100%" />
+</picture>
+
+[19801201/SpinalHDL\_CNN\_Accelerator](https://github.com/19801201/SpinalHDL_CNN_Accelerator)
+
+<details>
+<summary>查看统计与评分明细</summary>
+
+[完整统计报告](assets/star-track/summary.md) · [JSON](assets/star-track/stats.json)
+
+</details>
+
+<!-- prettier-ignore-end -->
+
+<!-- END_GITHUB_STATS -->
