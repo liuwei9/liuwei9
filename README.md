@@ -21,6 +21,6 @@ I'm a hardware enthusiast focusing on **FPGA** and **Digital Design**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=liuwei9&theme=dracula&show_icons=true&hide_title=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=liuwei9&show_icons=true&theme=radical&include_all_commits=true&hide=contribs,prs">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuwei9&layout=compact&langs_count=8&theme=dracula&include_orgs=true">
 </p>
