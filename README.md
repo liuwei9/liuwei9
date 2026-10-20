@@ -1,7 +1,3 @@
-# Hi, I'm liuwei9 👋
-
-I'm a hardware enthusiast focusing on **FPGA** and **Digital Design**.
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -20,7 +16,7 @@ I'm a hardware enthusiast focusing on **FPGA** and **Digital Design**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=liuwei9&show_icons=true&theme=default&include_all_commits=true&hide=contribs,prs">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuwei9&layout=compact&langs_count=8&theme=default&include_orgs=true">
+<p >
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=liuwei9&show_icons=true&theme=default&include_all_commits=true&hide=contribs,prs">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=liuwei9&layout=compact&langs_count=8&theme=default&include_orgs=true">
 </p>
