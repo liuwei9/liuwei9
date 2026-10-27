@@ -1,7 +1,5 @@
-## 🛠️ Tech Stack
-
 <p>
-<img src="https://img.shields.io/github/stars/liuwei9?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&style=flat-square&label=Total%20Stars" height="24">
+<img src="https://img.shields.io/github/stars/liuwei9?affiliations=OWNER,COLLABORATOR&style=flat-square&label=Total%20Stars" height="24">
 <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square" height="24">
 <img src="https://img.shields.io/badge/SystemVerilog-00599C?style=flat-square" height="24">
 <img src="https://img.shields.io/badge/Spinal%20HDL-2C2D72?style=flat-square" height="24">
@@ -13,10 +11,3 @@
 
 - **HDL & Frameworks**: Verilog, SystemVerilog, Spinal HDL
 - **Languages**: C, C++, Python, Scala
-
-## 📊 GitHub Stats
-
-<p >
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=liuwei9&show_icons=true&theme=default&include_all_commits=true&hide=contribs,prs">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=liuwei9&layout=compact&langs_count=8&theme=default&include_orgs=true">
-</p>
